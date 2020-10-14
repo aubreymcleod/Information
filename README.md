@@ -4,7 +4,7 @@
   <img src="/images/unknown.png" height="450px" alt="" />
 </p>
 <p align="center">
-  <p align="center">[Current meme winner: DennisHuynh16DH24 - Checkout the <a href="https://github.com/CISC-CMPE-327/Information/issues/2">competition</a>]</p>
+  <p align="center">[Credits: LammyJams]</p>
 </p>
 
 <p align="center">
