@@ -34,6 +34,16 @@
         "code",
         "doc"
       ]
+    },
+    {
+      "login": "charasyn",
+      "name": "Cooper Harasyn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/6129909?v=4",
+      "profile": "https://github.com/charasyn",
+      "contributions": [
+        "code",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
